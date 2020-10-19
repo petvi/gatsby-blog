@@ -4,7 +4,7 @@ date: "2019-10-19T05:12:03.284Z"
 description: "There are a lot of information about things to learn, but if you don't have time for them, I will help you make your choose."
 ---
 
-Here is a basic plan, based on my research and job market, that will guide you through your web development on becoming a programmer that is on demand.
+If I had to relearn Web Development again, this is what I would do knowing what I know now. It is based on current job market and technology growth.
 
 _This plan is for people with zero programming/coding experience._
 
@@ -20,43 +20,43 @@ This day we will use to prepare for the programming, that means we will have to 
 
 #### HTML Basics
 
-During these day you will start learning the basics of HTML language. This language is a building blocks of the web.
+During these day you will start learning the basics of [HTML](https://www.w3schools.com/html/html_intro.asp) language. This language is a building blocks of the web.
 
 ## Day 6-15
 
 #### Styling using CSS
 
-Days 6 through 15 will be mainly focused on styling the HTML using CSS. Here you will learn the basics of cascading the HTML elements. You will begin to understand how Web designs are made from scratch.
+Days 6 through 15 will be mainly focused on styling the HTML using [CSS](https://www.w3schools.com/css/css_intro.asp). Here you will learn the basics of cascading the HTML elements. You will begin to understand how Web designs are made from scratch using newest technologies like Flexbox and Grid.
 
 ## Day 16-30
 
 #### Core JavaScript principles
 
-Now it is time to add a logical programming to the mix. By far the most popular language is JavaScript, mainly because it is very simple yet powerful. Mastering this language you will let you code anything you can imagine. You will learn the basics of DOM, and how to edit pages programatically.
+Now it is time to add a logical programming to the mix. By far the most popular language is [JavaScript](https://www.w3schools.com/js/js_intro.asp), mainly because it is very simple yet powerful. Mastering this language you will let you code anything you can imagine. You will learn the basics of DOM, and how to edit pages programatically.
 
 ## Day 31-45
 
 #### React Framework
 
-React is a JavaScript Choosing a framework that makes programming web applications easier. Job market is pretty straight forward, React is dominating the market for some time now. So it is smart to select it. Vue.js hasn't been able to get big following in terms of job posting. Angular is slowly deceasing to vast nothingness.
+JavaScript framework is a set of tools that makes programming web applications easier. [React](https://www.w3schools.com/react/react_intro.asp) is dominating the market for some time now. So it is smart to choose it. Vue.js hasn't been able to get big following in terms of job posting. Angular is slowly deceasing to vast nothingness.
 
 ## Day 46-50
 
 #### Node.js
 
-It is time to jump on the other side of the spectrum. Let's start using Node.js to begin learning about Back-End. We are choosing Node.js because it is using the same language we have used before, which will make learning much easier.
+It is time to jump on the other side of the spectrum. Let's start using [Node.js](https://www.w3schools.com/nodejs/default.asp) to begin learning about Back-End. We are choosing it because it is using the same language we have used before, which will make learning much easier.
 
 ## Day 51-60
 
 #### MySQL
 
-We got the basics of Node.js, now it is time to get a grasp of database management. MySQL is the oldest and robust database system. You will learn how to store user data securely, and retrieve upon users request.
+We got the basics of Node.js, now it is time to get a grasp of database management. [MySQL](https://www.w3schools.com/sql/sql_intro.asp) is the oldest and robust database system using SQL language. You will learn how to store user data securely, and retrieve upon users request.
 
 ## Day 61-65
 
 #### Git, Version Control
 
-Git is a way to code while tracking changes in your app. It is especially useful for people working in teams. You should learnt he basics using GitHub.
+[Git](https://www.vogella.com/tutorials/Git/article.html) is a way to code while tracking changes in your app. It is especially useful for people working in teams. You should learnt he basics using GitHub.
 
 ## Day 66-90
 

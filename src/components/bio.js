@@ -54,10 +54,12 @@ const Bio = () => {
       {author?.name && (
         <p>
           My name is <strong>{author.name}</strong> {author?.summary || null}
+          <hr />
+          <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter</a>
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            My Twitter
-          </a>
+          <a href={`https://petvi.github.io`}>Portfolio</a>
+          {` `}
+          <a href={`https://linkedin.com/in/petvi`}>LinkedIn</a>
         </p>
       )}
     </div>

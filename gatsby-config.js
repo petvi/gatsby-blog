@@ -3,7 +3,7 @@ module.exports = {
     title: `Petras Vilkelis`,
     author: {
       name: `Petras Vilkelis`,
-      summary: `I am a Web Developer originally from Lithuania, currently living in Germany.`,
+      summary: `I am a Web Developer from Lithuania, currently living in Germany.`,
     },
     description: `My blog where I talk about all things Web Development.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
