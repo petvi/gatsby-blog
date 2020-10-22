@@ -55,12 +55,6 @@ const Bio = () => {
         <p>
           My name is <strong>{author.name}</strong> {author?.summary || null}
           <br />
-          <a
-            style={{ marginRight: ".5rem" }}
-            href={`https://twitter.com/${social?.twitter || ``}`}
-          >
-            Twitter
-          </a>
           <a style={{ marginRight: ".5rem" }} href={`https://petvi.github.io`}>
             Portfolio
           </a>
